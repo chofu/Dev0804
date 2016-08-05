@@ -6,6 +6,11 @@ require('./urf.tag');
 require('./cardpanel.tag');
 require('./dropdown.tag');
 require('./notfound.tag');
+require('./sns-count-facebook.tag');
+require('./sresult.tag');
+require('./gresult.tag');
+require('./showprefecture.tag');
+require('./getprefecture.tag');
 
 riot.mount('*');
 var
