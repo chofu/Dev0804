@@ -1,4 +1,4 @@
 <showprefecture>
     <p>ID:{id}</p>
-    <p>prefecture:{name}</p>
+    <p>Prefecture:{name}</p>
 </showprefecture>

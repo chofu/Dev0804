@@ -5,7 +5,7 @@ require('./sresult.tag');
     <script>
         this.wd = '( Loading... )'
         var self = this;
-        fetch( 'https://fast-reef-14433.herokuapp.com/prefectures' )
+        fetch( 'http://160.237.176.108/weather' )
                 .then( function ( data ) {
                     return data.json();
                 } )
@@ -14,7 +14,5 @@ require('./sresult.tag');
                     self.wd = json;
                     self.update();
                 } )
-
-
     </script>
 </gresult>

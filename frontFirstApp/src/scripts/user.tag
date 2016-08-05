@@ -7,7 +7,6 @@
 
         var image = i+opts.user_name;
 
-
     </script>
-    <img src="{image}" />
+
 </user>

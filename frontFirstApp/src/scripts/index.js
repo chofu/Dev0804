@@ -11,6 +11,7 @@ require('./sresult.tag');
 require('./gresult.tag');
 require('./showprefecture.tag');
 require('./getprefecture.tag');
+require('./gettoken.tag');
 
 riot.mount('*');
 var
